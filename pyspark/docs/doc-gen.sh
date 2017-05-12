@@ -1,2 +1,2 @@
-#!/bin/sh
-make clean; make html 2>/dev/null
+#!/bin/bash
+make clean; make html;

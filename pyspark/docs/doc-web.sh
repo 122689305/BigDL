@@ -1,2 +1,2 @@
-#!/bin/sh
-python docweb.py $1
+#!/bin/bash
+python doc-web.py $1
